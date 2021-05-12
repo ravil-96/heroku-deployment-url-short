@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath url_shortener --env DJANGO_SETTINGS_MODULE=url_shortener.settings url_shortener.wsgi --log-file -
+web: gunicorn --pythonpath url_shortener url_shortener.wsgi --log-file -
