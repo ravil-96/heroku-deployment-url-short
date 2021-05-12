@@ -1,1 +1,0 @@
-web: gunicorn --pythonpath url_shortener url_shortener.wsgi --log-file -
