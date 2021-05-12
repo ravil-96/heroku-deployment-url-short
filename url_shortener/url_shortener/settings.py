@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-ddm&i0bq12@xrxw21))8i9t$glp-xc&tx4z5dd5b9&4j0y&060
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://ancient-journey-45928.herokuapp.com/',
+ALLOWED_HOSTS = ['https://deploy-url-short-application.herokuapp.com/',
 'localhost',
 '127.0.0.1:8000/'
 ]
